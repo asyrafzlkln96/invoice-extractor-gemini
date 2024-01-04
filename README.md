@@ -1,5 +1,6 @@
 # invoice-extractor-gemini
-Multilanguage Invoice Extractor using Gemini AI
+Multilanguage Invoice Extractor using Gemini AI. 
+The user can upload an invoice image, and prompt on the details of the invoice.
 
 
 # Usage
