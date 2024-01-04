@@ -5,6 +5,7 @@ Multilanguage Invoice Extractor using Gemini AI
 # Usage
 - Make sure to have python already installed
 - pip install -r requirements.txt
+- Add your own .env and add own Google_API_Key 
 - Type streamlit run app.py in terminal to run the app
 
 # App Demo
